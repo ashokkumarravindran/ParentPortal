@@ -198,11 +198,12 @@
           </main>
 
           <aside class="action-center">
-            <div class="action-header">
-              <h2>Action center</h2>
-              <v-btn icon="mdi-cog-outline" variant="text"></v-btn>
-            </div>
-
+              <div class="action-header">
+                <h2>Action center</h2>
+                <button class="action-gear" aria-label="Settings">
+                <v-icon size="22">mdi-cog-outline</v-icon>
+                </button>
+              </div>
             <div class="action-tabs">
               <button class="active">For you <span>10</span></button>
               <button>To-Do</button>
