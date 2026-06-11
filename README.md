@@ -23,7 +23,7 @@ The concept explores how AI can move beyond answering questions and instead proa
 ⸻
 
 What Works in this Prototype
-The current proof of concept demonstrates:
+The current proof of concept demonstrates: (static mocked data)
 	●	Personalized family overview and household context
 	●	Child care program enrollment and progress tracking
 	●	Payment and attendance management workflows
