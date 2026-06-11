@@ -107,7 +107,6 @@ body {
 .family-avatars {
   display: flex;
   align-items: center;
-  gap: 6px;
   flex-shrink: 0;
 }
 
@@ -115,6 +114,7 @@ body {
   width: 31px;
   height: 31px;
   border-radius: 999px;
+  border: 2px solid #ffffff;
   display: inline-grid;
   place-items: center;
   line-height: 1;
@@ -122,6 +122,11 @@ body {
   font-weight: 700;
   color: #ffffff;
   text-align: center;
+}
+
+.avatar + .avatar,
+.add-avatar {
+  margin-left: -8px;
 }
 
 .avatar-l {
@@ -134,7 +139,8 @@ body {
 
 .add-avatar {
   background: #ffffff;
-  border: 1px solid #9ca3af;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 0 1px #9ca3af;
   color: #374151;
   font-size: 18px;
   font-weight: 500;
@@ -200,7 +206,7 @@ body {
 
 .ellie-layout {
   display: grid;
-  grid-template-columns: 42px 72px 20px 1fr;
+  grid-template-columns: 42px 100px 20px 1fr;
   align-items: center;
   gap: 10px;
 }
@@ -212,8 +218,8 @@ body {
 .ellie-layout h3 {
   margin: 0;
   color: #111827;
-  font-size: 21px;
-  line-height: 0.98;
+  font-size: 22px;
+  line-height: 1.0;
   font-weight: 800;
 }
 

@@ -67,8 +67,7 @@
                 <div class="ellie-layout">
                   <v-icon size="44">mdi-message-text-outline</v-icon>
 
-                  <h3>Hi,<br />I’m Ellie</h3>
-
+                  <h3>Hi, <br />I’m Ellie</h3>
                   <v-icon class="insight-icon" size="24">mdi-creation-outline</v-icon>
 
                   <p>Your AI assistant for child care support. How can I help you?</p>
