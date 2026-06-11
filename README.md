@@ -4,7 +4,7 @@ Project Context
 Families navigating child care support programs often need to manage information across multiple providers, agencies, schedules, documents, payments, eligibility requirements, and communications. Important actions are frequently distributed across emails, letters, portals, and support channels, making it difficult for parents to understand what requires attention and what actions need to be completed next.
 This proof of concept explores how a single, personalized dashboard experience could help parents stay informed, organized, and proactive by bringing the most relevant information into one place.
 
-Working URL(Demo):
+Working URL(Demo):https://parent-portal-tawny.vercel.app/
 
 ⸻
 
